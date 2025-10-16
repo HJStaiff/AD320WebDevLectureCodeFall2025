@@ -1,3 +1,40 @@
+// Primitive Data Types
+//Numbers
+// Numbers can be whole inegers or decimals
+1;
+3.14;
+
+// Numbers have operators for arithmetic
+// console.log(1 + 1);
+// console.log(10 - 1);
+// console.log(10 * 10);
+// console.log(2 ** 4);
+// console.log(10 / 2);
+// console.log(11 % 2); //Modulus or Remainder operator
+
+// let i = 1;
+// console.log(i++); // Increment +1
+// console.log(i);
+// console.log(i--); // Decrement -1
+// console.log(i);
+// console.log((i += 10));
+// console.log((i -= 5));
+
+//Strings
+//Strings can use '', "", or `` (template literals)
+// let name = "Rose";
+// let greeting = `Hello ${name}, it's nice to meet you!`;
+// console.log(greeting);
+
+// let math = `One and One is ${1 + 1}`;
+// console.log(math);
+
+// //Escape characters
+// console.log("'Hello'");
+// console.log('"World"');
+// // \" \'
+// console.log('""');
+
 // Your turn: Write a template literal mad lib!
 // Create variables: name, noun, adjective, and object
 // Then create a template literal and print the sentence
