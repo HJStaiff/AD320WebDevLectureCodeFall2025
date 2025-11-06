@@ -23,3 +23,5 @@ const booksAndPrices = [
   { title: "Dungeon Crawler Carl", price: 30 },
   { title: "The Southern Reach Trilogy", price: 25 },
 ];
+const cheaperBookPrices = booksAndPrices.map(book => book.price * 0.9);
+console.log(cheaperBookPrices);

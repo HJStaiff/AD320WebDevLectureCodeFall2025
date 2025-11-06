@@ -1,0 +1,20 @@
+{
+  "name": "ad320webdevlecturecodefall2025",
+  "version": "1.0.0",
+  "description": "This repository contains the demo code covered in class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HJStaiff/AD320WebDevLectureCodeFall2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HJStaiff/AD320WebDevLectureCodeFall2025/issues"
+  },
+  "homepage": "https://github.com/HJStaiff/AD320WebDevLectureCodeFall2025#readme"
+}
